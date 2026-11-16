@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://allodepann-electronic.fr/sitemap.xml
